@@ -83,6 +83,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/markdown/";
           
         },
+      },{id: "post-취미-소개",
+        
+          title: "취미 소개",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/hobby/";
+          
+        },
       },{id: "post-나의-첫-jekyll-블로그-포스트",
         
           title: "나의 첫 Jekyll 블로그 포스트",
