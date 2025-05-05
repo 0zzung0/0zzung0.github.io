@@ -9,16 +9,15 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Email: qnr1502@snu.ac.kr</p>
+    <p>Seoul, Republic of Korea</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  enabled: false # includes a list of news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
@@ -27,8 +26,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+안녕하세요. 저는 서울대학교에서 언어학과 인문데이터과학을 공부하고 있는 김민중입니다.
+주로 일본어 음운론 및 형태론에 관심이 많고, 실험을 기반으로 한 언어학 연구에 흥미를 가지고 있습니다.
+최근에는 언어학 외에도 경제학, 정치학 등 인간과 세상을 이해하는 다른 학문 분야에도 관심이 많아져 공부해 보고 있습니다.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+현재 한일대학연합동아리 '하나'에서 운영진으로서 여러 기수 동안 활동하며 각양각색의 삶을 살아가는 양국의 대학생 친구들과 교류하고 있습니다.
+한일문화교류에 조금이라도 더 도움이 될 수 있도록 앞으로도 열심히 활동하면서 많은 것을 배우고 싶습니다.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
