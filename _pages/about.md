@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://linguist.snu.ac.kr/'>Affiliations</a>. Contacts. Interests, Activities. Etc.
+subtitle: <a href='https://linguist.snu.ac.kr/'>Affiliations</a>. Contacts. Interests. Activities. Etc.
 
 profile:
   align: right
@@ -12,7 +12,7 @@ profile:
     <p>Email: qnr1502@snu.ac.kr</p>
     <p>Seoul, Republic of Korea</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
