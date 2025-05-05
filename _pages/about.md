@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Contacts. Interests, Activities. Etc.
+subtitle: <a href='https://linguist.snu.ac.kr/'>Affiliations</a>. Contacts. Interests, Activities. Etc.
 
 profile:
   align: right
