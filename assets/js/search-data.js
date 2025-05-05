@@ -72,9 +72,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-markdown-문법-기",
+            },{id: "post-markdown-문법-기초",
         
-          title: "Markdown 문법 기",
+          title: "Markdown 문법 기초",
         
         description: "",
         section: "Posts",
