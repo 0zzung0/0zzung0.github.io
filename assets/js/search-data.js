@@ -440,7 +440,12 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
+      },{id: "books-미적분학",
+          title: '미적분학',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/calculus/";
+            },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
