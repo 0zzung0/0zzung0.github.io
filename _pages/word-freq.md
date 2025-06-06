@@ -7,6 +7,7 @@ nav_order: 4
 ---
 
     ## 텍스트 입력
+    
     <textarea id="textInput" type="text" placeholder="분석할 텍스트를 입력하세요."></textarea>
     <button onclick="updateChart()">제출</button>
 
